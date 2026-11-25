@@ -1,0 +1,65 @@
+{
+  "schema": 1,
+  "source": "tova-explore",
+  "generatedAt": "2026-11-25T08:33:39.808Z",
+  "slug": "fnsuccess",
+  "name": "First National Real Estate Lethbridge",
+  "city": "Christchurch",
+  "industry": {
+    "label": "Real estate agents",
+    "niche": "real estate agents",
+    "group": "Professional services"
+  },
+  "contact": {
+    "phone": "+6433983800",
+    "email": "answers@lethbridge.co.nz",
+    "address": "5/57 Mandeville St, Christchurch"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/358516081330698"
+  },
+  "about": {},
+  "before": {
+    "url": "http://fnsuccess.co.nz/",
+    "domain": "fnsuccess.co.nz",
+    "finalUrl": "http://fnsuccess.co.nz/",
+    "pages": 2,
+    "score": 57,
+    "assessedAt": "2026-11-23T13:01:27.078Z",
+    "issues": [
+      {
+        "id": "no-https",
+        "title": "Not served over HTTPS",
+        "evidence": "Final URL is http://fnsuccess.co.nz/. Browsers label this site \"Not secure\"."
+      },
+      {
+        "id": "no-contact-path",
+        "title": "No easy way to get in touch",
+        "evidence": "No tap-to-call link and no enquiry form on the homepage."
+      },
+      {
+        "id": "weak-title",
+        "title": "Weak or missing page title",
+        "evidence": "No <title> found, hurting Google search appearance."
+      },
+      {
+        "id": "no-meta-desc",
+        "title": "No search description",
+        "evidence": "No meta description, so Google chooses random page text for search results."
+      },
+      {
+        "id": "no-schema",
+        "title": "No local-business search markup",
+        "evidence": "No structured data, so Google has less to show for the business."
+      }
+    ],
+    "screenshot": "screenshots/before-desktop.jpg"
+  },
+  "ours": {
+    "pagesUrl": "https://tova-studio.github.io/first-national-real-estate-lethbridge/",
+    "repoUrl": "https://github.com/tova-studio/first-national-real-estate-lethbridge",
+    "generator": "claude",
+    "screenshot": "screenshots/after-desktop.jpg",
+    "publishedAt": "2026-11-25T08:33:39.808Z"
+  }
+}
